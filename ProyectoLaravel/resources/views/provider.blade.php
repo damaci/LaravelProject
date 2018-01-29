@@ -15,11 +15,24 @@
                         @endif
 
                         <h3>Vista dels providers!</h3>
-                        <table class="providers">
-                            <tr>
+                        <table width="70%" border="1px" margin="1px" align="center">
 
-
+                            <tr align="center">
+                                <td>Provider</td>
+                                <td>Correu</td>
+                                <td>Direcció</td>
                             </tr>
+                            <tr align="center">
+                                <td>Pidiscat</td>
+                                <td>pidiscat@gmail.com</td>
+                                <td>C/Gran Via, 168</td>
+                            </tr>
+                            <tr align="center">
+                                <td>Medical_Express</td>
+                                <td>medicalexpress@gmail.com</td>
+                                <td>Av/Diagonal, 389</td>
+                            </tr>
+
                         </table>
 
                     </div>

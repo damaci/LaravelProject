@@ -15,10 +15,19 @@
                         @endif
 
                         <h3>Vista dels usuaris!</h3>
-                        <table class="users">
-                            <tr>
+                            <table width="70%" border="1px" margin="1px" align="center">
 
-
+                            <tr align="center">
+                                <td>Usuari</td>
+                                <td>Correu</td>
+                            </tr>
+                            <tr align="center">
+                                <td>david</td>
+                                <td>david@gmail.com</td>
+                            </tr>
+                            <tr align="center">
+                                <td>arnau</td>
+                                <td>arnau@gmail.com</td>
                             </tr>
                         </table>
 
